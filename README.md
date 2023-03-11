@@ -26,7 +26,7 @@
 #### How to Reach Me:
 
 <div style="flex-direction: row">
-   <a href="https://www.instagra.com/sserkan.kocak/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="50"> 
+   <a href="https://www.instagram.com/sserkan.kocak/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="50"> 
    <a href="https://www.linkedin.com/in/serkan-kocak-864162168/"> 
    <img src="https://cdn4.iconfinder.com/data/icons/seo-outline-422/50/linkedin-social-media-logo-website-512.png" width="50"> 
 </div>
